@@ -1,0 +1,36 @@
+ .row1{
+    border: 1px solid  black;
+    /* min-height: 15vh; */
+ }
+ .relog a{
+   list-style: none;
+   text-decoration: none;
+   color: aliceblue;
+ }
+ .mycontainer{
+   height: 100vh;
+ }
+
+ .imgsearch{
+   border: 1px solid black;
+ }
+ h3{
+    font-weight: bold;
+}
+.awards{
+    /* border: 1px solid  black; */
+    font-weight: bold;
+}
+.main{
+   background: linear-gradient(blue,red);
+}
+.imglogo{
+   height: 35px;
+   width: 40px;
+}
+.list{
+   border-radius: 10px;
+}
+.myImg{
+   height: inherit !important;
+}
